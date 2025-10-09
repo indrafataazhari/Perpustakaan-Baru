@@ -40,6 +40,7 @@ Sistem-Perpustakaan-Sederhana/
 <img width="369" height="226" alt="image" src="https://github.com/user-attachments/assets/b8bfd88c-e51c-47b0-9f07-2048b4cd4b7d" />
 
 <h3>Link Video YouTube</h3>
+https://youtu.be/36n3Xl7_xUo?si=K8jc_Ld40JcyL5JS
 
 <h3>Petunjuk Cara Menjalankan Program</h3>
 1. Pastikan Java sudah terinstal.
